@@ -6,3 +6,6 @@ flask_session/
 *.pyc
 .DS_Store
 misc/
+venv/
+.vscode/
+*.db
