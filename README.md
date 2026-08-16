@@ -209,3 +209,9 @@ dataset.
 -   Integrated legal search, judgment viewing, lawyer recommendations,
     search history, and legal news.
 -   Flask + SQLite backend with session-based authentication.
+
+## Acknowledgement
+I would like to acknowledge the contributions of my teammates, Madhur Thakkar and
+Aditya Gaikwad, whose work contributed to the backend, authentication, AI processing, data collection, preprocessing, and other components of the LegalToday platform.
+The final system was developed as a collaborative course project, with individual contributions spanning different modules of the application.
+The original repository link is: https://github.com/flameberry/CS699_Project_Team_MMA. This is created for resume verification purposes.
